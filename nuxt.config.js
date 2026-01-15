@@ -6,7 +6,7 @@ module.exports = {
 
   target: 'static',
   router: {
-    base: '/dnscrypt-website-master/'
+    base: '/dnscrypt.info/'
   },
 
   sitemap: {
